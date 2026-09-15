@@ -154,7 +154,6 @@ This project was developed as part of my **6th Semester Game Development coursew
 
 **Zain Ahmad Khan**
 
-- GitHub: https://github.com/zainakhan-1
 - LinkedIn: https://www.linkedin.com/in/zain-ahmad-khan-8689302a6
 - Portfolio: https://zain-ahmad-khan-portfolio.vercel.app
 
